@@ -1,2 +1,3 @@
 Deni Resolusi
 - konsisten belajar technology baru
+- membuat aplikasi realtime js
